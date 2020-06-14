@@ -1,0 +1,28 @@
+body {
+  background: #E0EBF6;
+}
+
+.container {
+  background: snow;
+}
+
+.carousel-item img {
+  height: 600px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.card img {
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.carousel-inner h5 {
+  color: black;
+}
+
+.carousel-inner p {
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */
